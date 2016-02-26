@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/texture">
+        <file>stone.jpg</file>
+        <file>sky.jpg</file>
+        <file>wood.bmp</file>
+        <file>purecloud.jpg</file>
+        <file>jade.jpg</file>
+        <file>floor.bmp</file>
+    </qresource>
+    <qresource prefix="/obj">
+        <file>cube.obj</file>
+        <file>texture.qrc</file>
+    </qresource>
+</RCC>
